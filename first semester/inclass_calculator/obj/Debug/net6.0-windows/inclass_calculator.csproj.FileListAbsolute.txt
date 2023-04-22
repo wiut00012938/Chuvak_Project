@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\bin\Debug\net6.0-windows\inclass_calculator.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\bin\Debug\net6.0-windows\inclass_calculator.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\bin\Debug\net6.0-windows\inclass_calculator.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\bin\Debug\net6.0-windows\inclass_calculator.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\bin\Debug\net6.0-windows\inclass_calculator.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\refint\inclass_calculator.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\inclass_calculator.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\inclass_calculator\obj\Debug\net6.0-windows\ref\inclass_calculator.dll

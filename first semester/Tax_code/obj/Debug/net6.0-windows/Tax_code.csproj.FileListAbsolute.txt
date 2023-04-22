@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\bin\Debug\net6.0-windows\Tax_code.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\bin\Debug\net6.0-windows\Tax_code.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\bin\Debug\net6.0-windows\Tax_code.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\bin\Debug\net6.0-windows\Tax_code.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\bin\Debug\net6.0-windows\Tax_code.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\refint\Tax_code.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\Tax_code.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Tax_code\obj\Debug\net6.0-windows\ref\Tax_code.dll

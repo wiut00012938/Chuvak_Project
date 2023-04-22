@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\bin\Debug\net6.0-windows\Cats.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\bin\Debug\net6.0-windows\Cats.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\bin\Debug\net6.0-windows\Cats.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\bin\Debug\net6.0-windows\Cats.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\bin\Debug\net6.0-windows\Cats.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\refint\Cats.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\Cats.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Cats\obj\Debug\net6.0-windows\ref\Cats.dll

@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\bin\Debug\net6.0-windows\piggy_bank.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\bin\Debug\net6.0-windows\piggy_bank.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\bin\Debug\net6.0-windows\piggy_bank.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\bin\Debug\net6.0-windows\piggy_bank.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\bin\Debug\net6.0-windows\piggy_bank.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\refint\piggy_bank.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\piggy_bank.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\piggy_bank\obj\Debug\net6.0-windows\ref\piggy_bank.dll

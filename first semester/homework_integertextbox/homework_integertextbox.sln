@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework_integertextbox", "homework_integertextbox.csproj", "{A8984412-BB48-4F1B-B63D-2F542AC67715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8984412-BB48-4F1B-B63D-2F542AC67715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8984412-BB48-4F1B-B63D-2F542AC67715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8984412-BB48-4F1B-B63D-2F542AC67715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8984412-BB48-4F1B-B63D-2F542AC67715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43A3388-1514-4539-A43C-857AD91EE119}
+	EndGlobalSection
+EndGlobal

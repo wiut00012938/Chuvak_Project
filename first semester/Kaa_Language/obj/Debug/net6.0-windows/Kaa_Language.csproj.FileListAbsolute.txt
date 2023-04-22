@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\bin\Debug\net6.0-windows\Kaa_Language.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\bin\Debug\net6.0-windows\Kaa_Language.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\bin\Debug\net6.0-windows\Kaa_Language.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\bin\Debug\net6.0-windows\Kaa_Language.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\bin\Debug\net6.0-windows\Kaa_Language.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\refint\Kaa_Language.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\Kaa_Language.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Kaa_Language\obj\Debug\net6.0-windows\ref\Kaa_Language.dll

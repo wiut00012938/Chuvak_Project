@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\bin\Debug\net6.0-windows\sample_sorting.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\bin\Debug\net6.0-windows\sample_sorting.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\bin\Debug\net6.0-windows\sample_sorting.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\bin\Debug\net6.0-windows\sample_sorting.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\bin\Debug\net6.0-windows\sample_sorting.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\refint\sample_sorting.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\sample_sorting.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_sorting\obj\Debug\net6.0-windows\ref\sample_sorting.dll

@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\bin\Debug\net6.0-windows\LeapYear.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\bin\Debug\net6.0-windows\LeapYear.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\bin\Debug\net6.0-windows\LeapYear.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\bin\Debug\net6.0-windows\LeapYear.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\bin\Debug\net6.0-windows\LeapYear.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\refint\LeapYear.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\LeapYear.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\LeapYear\obj\Debug\net6.0-windows\ref\LeapYear.dll

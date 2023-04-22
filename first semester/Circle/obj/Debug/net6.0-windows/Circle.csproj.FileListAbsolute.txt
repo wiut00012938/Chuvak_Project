@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\bin\Debug\net6.0-windows\Circle.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\bin\Debug\net6.0-windows\Circle.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\bin\Debug\net6.0-windows\Circle.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\bin\Debug\net6.0-windows\Circle.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\bin\Debug\net6.0-windows\Circle.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\refint\Circle.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\Circle.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\Circle\obj\Debug\net6.0-windows\ref\Circle.dll

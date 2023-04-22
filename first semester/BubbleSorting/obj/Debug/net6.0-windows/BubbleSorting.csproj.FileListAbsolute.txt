@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\bin\Debug\net6.0-windows\BubbleSorting.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\bin\Debug\net6.0-windows\BubbleSorting.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\bin\Debug\net6.0-windows\BubbleSorting.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\bin\Debug\net6.0-windows\BubbleSorting.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\bin\Debug\net6.0-windows\BubbleSorting.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\refint\BubbleSorting.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\BubbleSorting.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\BubbleSorting\obj\Debug\net6.0-windows\ref\BubbleSorting.dll

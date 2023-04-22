@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\bin\Debug\net6.0-windows\TimeParsing.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\bin\Debug\net6.0-windows\TimeParsing.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\bin\Debug\net6.0-windows\TimeParsing.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\bin\Debug\net6.0-windows\TimeParsing.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\bin\Debug\net6.0-windows\TimeParsing.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\refint\TimeParsing.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\TimeParsing.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\TimeParsing\obj\Debug\net6.0-windows\ref\TimeParsing.dll

@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\bin\Debug\net6.0-windows\homework_integertextbox.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\bin\Debug\net6.0-windows\homework_integertextbox.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\bin\Debug\net6.0-windows\homework_integertextbox.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\bin\Debug\net6.0-windows\homework_integertextbox.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\bin\Debug\net6.0-windows\homework_integertextbox.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\refint\homework_integertextbox.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\homework_integertextbox.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_integertextbox\obj\Debug\net6.0-windows\ref\homework_integertextbox.dll

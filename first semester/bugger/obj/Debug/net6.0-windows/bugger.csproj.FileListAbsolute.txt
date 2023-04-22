@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\bin\Debug\net6.0-windows\bugger.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\bin\Debug\net6.0-windows\bugger.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\bin\Debug\net6.0-windows\bugger.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\bin\Debug\net6.0-windows\bugger.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\bin\Debug\net6.0-windows\bugger.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\refint\bugger.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\bugger.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\bugger\obj\Debug\net6.0-windows\ref\bugger.dll

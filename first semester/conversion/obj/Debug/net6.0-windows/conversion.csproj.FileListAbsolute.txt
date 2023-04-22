@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\bin\Debug\net6.0-windows\conversion.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\bin\Debug\net6.0-windows\conversion.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\bin\Debug\net6.0-windows\conversion.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\bin\Debug\net6.0-windows\conversion.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\bin\Debug\net6.0-windows\conversion.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\refint\conversion.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\conversion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\conversion\obj\Debug\net6.0-windows\ref\conversion.dll

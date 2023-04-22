@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\bin\Debug\net6.0-windows\homework_language.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\bin\Debug\net6.0-windows\homework_language.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\bin\Debug\net6.0-windows\homework_language.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\bin\Debug\net6.0-windows\homework_language.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\bin\Debug\net6.0-windows\homework_language.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\refint\homework_language.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\homework_language.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\homework_language\obj\Debug\net6.0-windows\ref\homework_language.dll

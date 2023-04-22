@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaa_Language", "Kaa_Language.csproj", "{DBD897DA-DAF2-4C51-8A49-C05F295B3EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD897DA-DAF2-4C51-8A49-C05F295B3EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD897DA-DAF2-4C51-8A49-C05F295B3EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD897DA-DAF2-4C51-8A49-C05F295B3EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD897DA-DAF2-4C51-8A49-C05F295B3EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {166D8E38-B166-49F8-9BD1-AA849B8C8F9D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\bin\Debug\net6.0-windows\sample_show_digits.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\bin\Debug\net6.0-windows\sample_show_digits.deps.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\bin\Debug\net6.0-windows\sample_show_digits.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\bin\Debug\net6.0-windows\sample_show_digits.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\bin\Debug\net6.0-windows\sample_show_digits.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.Form1.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\refint\sample_show_digits.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\sample_show_digits.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\sample_show_digits\obj\Debug\net6.0-windows\ref\sample_show_digits.dll

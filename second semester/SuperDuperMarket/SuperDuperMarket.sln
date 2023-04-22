@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDuperMarket", "SuperDuperMarket.csproj", "{CA936202-DF3C-46EC-95E2-787959247FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDuperMarket.DAL", "..\SuperDuperMarket.DAL\SuperDuperMarket.DAL.csproj", "{3377AF4C-4E29-404F-8A02-E4FCAE7E1BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA936202-DF3C-46EC-95E2-787959247FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA936202-DF3C-46EC-95E2-787959247FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA936202-DF3C-46EC-95E2-787959247FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA936202-DF3C-46EC-95E2-787959247FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3377AF4C-4E29-404F-8A02-E4FCAE7E1BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3377AF4C-4E29-404F-8A02-E4FCAE7E1BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3377AF4C-4E29-404F-8A02-E4FCAE7E1BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3377AF4C-4E29-404F-8A02-E4FCAE7E1BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3FCBFB0-9828-496C-9DBC-59084C16A799}
+	EndGlobalSection
+EndGlobal

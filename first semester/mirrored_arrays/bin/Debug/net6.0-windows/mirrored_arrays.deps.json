@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mirrored_arrays/1.0.0": {
+        "runtime": {
+          "mirrored_arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mirrored_arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
