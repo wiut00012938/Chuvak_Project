@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\bin\Debug\SuperDuperMarket.DAL.dll.config
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\bin\Debug\SuperDuperMarket.DAL.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\bin\Debug\SuperDuperMarket.DAL.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\obj\Debug\SuperDuperMarket.DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\obj\Debug\SuperDuperMarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\obj\Debug\SuperDuperMarket.DAL.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\obj\Debug\SuperDuperMarket.DAL.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket.DAL\obj\Debug\SuperDuperMarket.DAL.pdb

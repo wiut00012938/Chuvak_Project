@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.exe.config
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.DAL.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.DAL.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.DAL.dll.config
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.ParentForm.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.exe
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.pdb
