@@ -62,7 +62,6 @@ namespace SuperDuperMarket
             Product.Priority = Convert.ToInt32(nudPriority.Value);
             Product.PurchaseLevel = Convert.ToInt32(nudPurchaseLevel.Value);
             Product.price = Convert.ToDouble(nudPrice.Value);
-            MessageBox.Show(Product.price.ToString());
         }
         private void btnSubmit_Click(object sender, EventArgs e)
         {
@@ -74,7 +73,6 @@ namespace SuperDuperMarket
                     manager.Create(Product);
                 else
                     manager.Update(Product);
-                MessageBox.Show(Convert.ToDecimal(nudPrice.Value).ToString());
                 MyForms.GetForm<Products>().LoadData();
                 Close();
             }

@@ -36,5 +36,15 @@ namespace SuperDuperMarket
         {
             MyForms.GetForm<Product_Add>().Show();
         }
+
+        private void addNewOrderToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MyForms.GetForm<PurchaseOrders>().Show();
+        }
+
+        private void addANewOrderToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MyForms.GetForm<AddPurpchaseOrder>().Show();
+        }
     }
 }

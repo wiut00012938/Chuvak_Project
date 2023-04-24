@@ -51,6 +51,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddPurpchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPurpchaseOrder.Designer.cs">
+      <DependentUpon>AddPurpchaseOrder.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMode.cs" />
     <Compile Include="MyForms.cs" />
     <Compile Include="ParentForm.cs">
@@ -79,6 +85,9 @@
     <Compile Include="PurchaseOrders.Designer.cs">
       <DependentUpon>PurchaseOrders.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AddPurpchaseOrder.resx">
+      <DependentUpon>AddPurpchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ParentForm.resx">
       <DependentUpon>ParentForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -103,6 +112,7 @@
     <None Include="packages.config" />
     <None Include="Properties\DataSources\SuperDuperMarket.DAL.Product.datasource" />
     <None Include="Properties\DataSources\SuperDuperMarket.DAL.PurchaseOrder.datasource" />
+    <None Include="Properties\DataSources\SuperDuperMarket.DAL.ToOrder.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

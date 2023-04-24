@@ -17,7 +17,7 @@ namespace SuperDuperMarket.DAL
         {
             get
             {
-                Difference = PurchaseLevel - Remaining;
+                Difference = (PurchaseLevel - Remaining)*2;
                 return Difference;
             }
             set

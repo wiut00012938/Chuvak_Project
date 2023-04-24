@@ -30,10 +30,12 @@
         {
             this.components = new System.ComponentModel.Container();
             this.dgv = new System.Windows.Forms.DataGridView();
-            this.purchaseOrderBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.totalAmountDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.purchaseOrderBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.btnRefresh = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.purchaseOrderBindingSource)).BeginInit();
             this.SuspendLayout();
@@ -54,10 +56,6 @@
             this.dgv.ReadOnly = true;
             this.dgv.Size = new System.Drawing.Size(354, 415);
             this.dgv.TabIndex = 0;
-            // 
-            // purchaseOrderBindingSource
-            // 
-            this.purchaseOrderBindingSource.DataSource = typeof(SuperDuperMarket.DAL.PurchaseOrder);
             // 
             // idDataGridViewTextBoxColumn
             // 
@@ -80,14 +78,41 @@
             this.totalAmountDataGridViewTextBoxColumn.Name = "totalAmountDataGridViewTextBoxColumn";
             this.totalAmountDataGridViewTextBoxColumn.ReadOnly = true;
             // 
+            // purchaseOrderBindingSource
+            // 
+            this.purchaseOrderBindingSource.DataSource = typeof(SuperDuperMarket.DAL.PurchaseOrder);
+            // 
+            // btnRefresh
+            // 
+            this.btnRefresh.Location = new System.Drawing.Point(382, 40);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(129, 48);
+            this.btnRefresh.TabIndex = 1;
+            this.btnRefresh.Text = "Refresh";
+            this.btnRefresh.UseVisualStyleBackColor = true;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(382, 111);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(129, 48);
+            this.btnAdd.TabIndex = 2;
+            this.btnAdd.Text = "Add";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
             // PurchaseOrders
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(532, 450);
+            this.Controls.Add(this.btnAdd);
+            this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.dgv);
             this.Name = "PurchaseOrders";
             this.Text = "PurchaseOrders";
+            this.Load += new System.EventHandler(this.PurchaseOrders_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.purchaseOrderBindingSource)).EndInit();
             this.ResumeLayout(false);
@@ -101,5 +126,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dateDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn totalAmountDataGridViewTextBoxColumn;
         private System.Windows.Forms.BindingSource purchaseOrderBindingSource;
+        private System.Windows.Forms.Button btnRefresh;
+        private System.Windows.Forms.Button btnAdd;
     }
 }

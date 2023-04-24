@@ -71,14 +71,14 @@
             // allProductsToolStripMenuItem
             // 
             this.allProductsToolStripMenuItem.Name = "allProductsToolStripMenuItem";
-            this.allProductsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.allProductsToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.allProductsToolStripMenuItem.Text = "All Products";
             this.allProductsToolStripMenuItem.Click += new System.EventHandler(this.allProductsToolStripMenuItem_Click);
             // 
             // addNewProductToolStripMenuItem
             // 
             this.addNewProductToolStripMenuItem.Name = "addNewProductToolStripMenuItem";
-            this.addNewProductToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.addNewProductToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.addNewProductToolStripMenuItem.Text = "Add new Product";
             this.addNewProductToolStripMenuItem.Click += new System.EventHandler(this.addNewProductToolStripMenuItem_Click);
             // 
@@ -94,14 +94,16 @@
             // addNewOrderToolStripMenuItem
             // 
             this.addNewOrderToolStripMenuItem.Name = "addNewOrderToolStripMenuItem";
-            this.addNewOrderToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.addNewOrderToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.addNewOrderToolStripMenuItem.Text = "View all orders";
+            this.addNewOrderToolStripMenuItem.Click += new System.EventHandler(this.addNewOrderToolStripMenuItem_Click);
             // 
             // addANewOrderToolStripMenuItem
             // 
             this.addANewOrderToolStripMenuItem.Name = "addANewOrderToolStripMenuItem";
-            this.addANewOrderToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.addANewOrderToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.addANewOrderToolStripMenuItem.Text = "Add a new order";
+            this.addANewOrderToolStripMenuItem.Click += new System.EventHandler(this.addANewOrderToolStripMenuItem_Click);
             // 
             // fileToolStripMenuItem
             // 

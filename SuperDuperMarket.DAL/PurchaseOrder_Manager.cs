@@ -9,19 +9,22 @@ using System.Windows.Forms;
 
 namespace SuperDuperMarket.DAL
 {
-    public class PurchasePurchaseOrder_Manager: DbManager
+    public class PurchaseOrder_Manager: DbManager
     {
-        public void Create(PurchaseOrder c)
+        public void Create(Double Amount)
         {
             var connection = Connection;
+            var currentDate = DateTime.Now;
             try
             {
                 var sql = $@"
                     INSERT INTO po_purchase_order (po_date_12545
                                             ,po_total_12545) 
-                    VALUES ('{c.Date.Ticks}',
-                            '{Convert.ToDouble(c.TotalAmount)}')";
+                    VALUES ('{currentDate.Ticks}',
+                            {"@amount"})";
                 var command = new SQLiteCommand(sql, connection);
+                command.Parameters.AddWithValue("@amount", Amount);
+                command.Parameters["@amount"].DbType = DbType.Decimal;
                 connection.Open();
                 command.ExecuteNonQuery();
             }

@@ -11,6 +11,26 @@ namespace SuperDuperMarket.DAL
 {
     public class ToOrder_Manager: DbManager
     {
+        public void Update(int remaining, string name)
+        {
+            var connection = Connection;
+            try
+            {
+                var sql = $"UPDATE pt_product SET pt_remaining_12545 = {remaining} Where pt_name_12545 = '{name}'";
+                var command = new SQLiteCommand(sql, connection);
+                connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                if (connection.State != ConnectionState.Closed)
+                    connection.Close();
+            }
+        }
         public List<ToOrder> GetAll()
         {
             var connection = Connection;
@@ -55,9 +75,9 @@ namespace SuperDuperMarket.DAL
             return GetAll().OrderByDescending(a => a.Priority).ToList();
 
         }
-        public List<ToOrder> Filtering()
+        public List<ToOrder> Filtering(List<ToOrder> data)
         {
-            return GetAll().Where(a => Convert.ToInt32(a.Remaining) - Convert.ToInt32(a.PurchaseLevel) < 0).ToList();
+            return data.Where(a => Convert.ToInt32(a.Remaining) - Convert.ToInt32(a.PurchaseLevel) < 0).ToList();
         }
     }
 }
