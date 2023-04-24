@@ -26,5 +26,15 @@ namespace SuperDuperMarket
         {
             Application.Exit();
         }
+
+        private void allProductsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MyForms.GetForm<Products>().Show();
+        }
+
+        private void addNewProductToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MyForms.GetForm<Product_Add>().Show();
+        }
     }
 }

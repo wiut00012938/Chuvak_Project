@@ -9,15 +9,18 @@ using System.Windows.Forms;
 
 namespace SuperDuperMarket.DAL
 {
-    public class Product_Manager: DbManager
+    public partial class Product_Manager: DbManager
     {
         public void Create(Product c)
         {
-            var connection = Connection; 
-            try 
+            //I used this source for fixing the issue with inserting of double value - https://www.codeproject.com/Questions/323017/how-to-insert-decimal-values-into-database
+            var connection = Connection;
+            try
             {
-                var sql = $"INSERT INTO pt_product (pt_name_12545,pt_remaining_12545,pt_priority_12545,pt_purchase_level_12545,pt_price_12545) VALUES ('{c.Name}','{Convert.ToInt32(c.Remaining)}','{Convert.ToInt32(c.Priority)}','{Convert.ToInt32(c.PurchaseLevel)}','{Convert.ToDouble(c.Price)}')";
+                var sql = $"INSERT INTO pt_product (pt_name_12545,pt_remaining_12545,pt_priority_12545,pt_purchase_level_12545,pt_price_12545) VALUES ('{c.Name}','{Convert.ToInt32(c.Remaining)}','{Convert.ToInt32(c.Priority)}','{Convert.ToInt32(c.PurchaseLevel)}',{"@price"})";
                 var command = new SQLiteCommand(sql, connection);
+                command.Parameters.AddWithValue("@price", c.Price);
+                command.Parameters["@price"].DbType = DbType.Decimal;
                 connection.Open();
                 command.ExecuteNonQuery();
             }

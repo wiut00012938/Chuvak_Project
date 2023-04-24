@@ -47,15 +47,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ByAttribute.cs" />
     <Compile Include="DbManager.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Product_Manager.cs" />
+    <Compile Include="Product_Manager_Functions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="PurchaseOrder.cs" />
+    <Compile Include="PurchaseOrder_Manager.cs" />
+    <Compile Include="ToOrder.cs" />
+    <Compile Include="ToOrder_Manager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

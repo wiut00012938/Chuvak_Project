@@ -17,7 +17,6 @@ namespace SuperDuperMarket.DAL
             get => name;
             set
             {
-                /*We must not allow to set a value that is null or when some stupid people enter spaces*/
                 if (string.IsNullOrWhiteSpace(value))
                     throw new Exception("Name cannot be empty");
                 name = value;
@@ -30,7 +29,7 @@ namespace SuperDuperMarket.DAL
             get => purchaseLevel;
             set
             {
-                if (purchaseLevel == 0)
+                if (value == 0)
                     throw new Exception("Purchase level can not be equal to zero");
                 purchaseLevel = value;
             }
@@ -40,7 +39,8 @@ namespace SuperDuperMarket.DAL
             get => price;
             set
             {
-                if (price == 0) throw new Exception("Price can not be equal to zero");
+                if (value == 0) throw new Exception("Price cannot be equal to zero");
+                price = value;
             }
         }
 

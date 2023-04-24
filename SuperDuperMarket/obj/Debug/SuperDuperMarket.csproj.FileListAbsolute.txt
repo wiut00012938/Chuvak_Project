@@ -15,3 +15,7 @@ C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\
 C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.csproj.CopyComplete
 C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.exe
 C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.pdb
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.Products.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\bin\Debug\SuperDuperMarket.db
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.Product_Add.resources
+C:\Users\User\OneDrive\Документы\Education\FunPro\SuperDuperMarket\obj\Debug\SuperDuperMarket.PurchaseOrders.resources
